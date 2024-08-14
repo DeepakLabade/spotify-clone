@@ -1,0 +1,43 @@
+.box{
+    height: 250px;
+    width: 250px;
+    border: 10px solid black;
+    border-radius: 60px;
+    margin: 25px;
+}
+
+.main{
+    display: flex;
+    height: 600px;
+    width: 700px;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: auto;
+}
+
+*{
+    text-align: center;
+}
+
+.box1 {
+    background-color: rgb(205, 63, 63);
+}
+
+.box2{
+    background-color: rgb(64, 128, 196);
+}
+
+.box3{
+    background-color: rgb(233, 160, 24);
+}
+
+.box4{
+    background-color: rgb(129, 37, 220);
+}
+
+.flash{
+    background-color: white;
+}
+.userFlash{
+    background-color: green;
+}
